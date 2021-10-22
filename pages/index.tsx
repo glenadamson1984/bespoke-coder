@@ -74,17 +74,12 @@ const Home: NextPage = () => {
             </div>
           </div>
         </main>
-
-        <footer className={styles.footer}>
-          <span className={styles.logo}>
-            <Image
-              src="/LinkedIn-COVER-Image.jpg"
-              alt="Modern Software Logo"
-              width={600}
-              height={100}
-            />
-          </span>
-        </footer>
+        <Image
+          src="/1.png"
+          alt="Modern Software Logo"
+          width={200}
+          height={200}
+        />
       </div>
     </>
   );

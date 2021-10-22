@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b14dbbaa-4ece-4ef2-82a1-f0af3fad36b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Modal.tsx" afterDir="false" />
+    <list default="true" id="b14dbbaa-4ece-4ef2-82a1-f0af3fad36b3" name="Changes" comment="centering modal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.css" afterDir="false" />
@@ -83,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634929643911</updated>
-      <workItem from="1634929648612" duration="4311000" />
+      <workItem from="1634929648612" duration="4657000" />
     </task>
     <task id="LOCAL-00001" summary="adding new images and packages to the project">
       <created>1634930688331</created>
@@ -99,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634931813952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="centering modal">
+      <created>1634939321380</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634939321380</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +114,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding new images and packages to the project" />
     <MESSAGE value="adding backgound istock image that cost seven quid" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding backgound istock image that cost seven quid" />
+    <MESSAGE value="centering modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="centering modal" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

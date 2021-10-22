@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14dbbaa-4ece-4ef2-82a1-f0af3fad36b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/FACEBOOK-PAGE-LOGO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/LinkedIn-COVER-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Twitter-Cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Youtube-Cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/facebook-cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/technology-1283624_770.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/iStock-1274394138.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +17,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1zsGzNbWHzk9JKvILKN3M1vRo4b" />
   <component name="ProjectViewState">
@@ -74,11 +75,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634929643911</updated>
-      <workItem from="1634929648612" duration="949000" />
+      <workItem from="1634929648612" duration="1888000" />
     </task>
+    <task id="LOCAL-00001" summary="adding new images and packages to the project">
+      <created>1634930688331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634930688331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding new images and packages to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new images and packages to the project" />
   </component>
 </project>
